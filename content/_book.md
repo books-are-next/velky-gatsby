@@ -12,10 +12,6 @@ meta:
 chapters:
   - velky_getsby_001.html
   - velky_getsby_002.html
-  - velky_getsby_003.html
-  - velky_getsby_004.html
-  - velky_getsby_005.html
-  - velky_getsby_006.html
   - velky_getsby_007.html
   - velky_getsby_008.html
   - velky_getsby_009.html
@@ -25,8 +21,25 @@ chapters:
   - velky_getsby_013.html
   - velky_getsby_014.html
   - velky_getsby_015.html
-  - velky_getsby_016.html
-tocBase: []
+tocBase:
+  - link: velky_getsby_007.html
+    title: Kapitola I
+  - link: velky_getsby_008.html
+    title: Kapitola II
+  - link: velky_getsby_009.html
+    title: Kapitola III
+  - link: velky_getsby_010.html
+    title: Kapitola IV
+  - link: velky_getsby_011.html
+    title: Kapitola V
+  - link: velky_getsby_012.html
+    title: Kapitola VI
+  - link: velky_getsby_013.html
+    title: Kapitola VII
+  - link: velky_getsby_014.html
+    title: Kapitola VIII
+  - link: velky_getsby_015.html
+    title: Kapitola IX
 static:
   - style
   - scripts
