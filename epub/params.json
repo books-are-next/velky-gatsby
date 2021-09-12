@@ -32,54 +32,54 @@
         "filename": "velky_getsby_001.md",
         "xhtml": "velky_getsby_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
         "filename": "velky_getsby_002.md",
         "xhtml": "velky_getsby_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
         "filename": "velky_getsby_003.md",
         "xhtml": "velky_getsby_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
         "filename": "velky_getsby_004.md",
         "xhtml": "velky_getsby_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
         "filename": "velky_getsby_005.md",
         "xhtml": "velky_getsby_005.xhtml",
         "id": 4,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
         "filename": "velky_getsby_006.md",
         "xhtml": "velky_getsby_006.xhtml",
         "id": 5,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       },
       {
@@ -89,7 +89,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola I"
       },
       {
         "filename": "velky_getsby_008.md",
@@ -98,7 +99,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola II"
       },
       {
         "filename": "velky_getsby_009.md",
@@ -107,7 +109,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola III"
       },
       {
         "filename": "velky_getsby_010.md",
@@ -116,7 +119,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola IV"
       },
       {
         "filename": "velky_getsby_011.md",
@@ -125,7 +129,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola V"
       },
       {
         "filename": "velky_getsby_012.md",
@@ -134,7 +139,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola VI"
       },
       {
         "filename": "velky_getsby_013.md",
@@ -143,7 +149,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola VII"
       },
       {
         "filename": "velky_getsby_014.md",
@@ -152,7 +159,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola VIII"
       },
       {
         "filename": "velky_getsby_015.md",
@@ -161,15 +169,16 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola IX"
       },
       {
         "filename": "velky_getsby_016.md",
         "xhtml": "velky_getsby_016.xhtml",
         "id": 15,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": []
       }
     ]
@@ -180,8 +189,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Francis Scott Fitzgerald",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-12T16:12:23.009Z",
-      "languageCode": "cs"
+      "modified": "2021-09-12T16:19:55.131Z"
     },
     "chapters": [
       {
@@ -350,6 +358,6 @@
       "user": "books-are-next",
       "repo": "velky-gatsby"
     },
-    "generatedAt": 1631463143537
+    "generatedAt": 1631463595811
   }
 }
