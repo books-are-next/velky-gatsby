@@ -1,0 +1,179 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Velký Gatsby",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Francis Scott Fitzgerald",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-12T16:12:23.009Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_001.md",
+        "xhtml": "velky_getsby_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_002.md",
+        "xhtml": "velky_getsby_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_003.md",
+        "xhtml": "velky_getsby_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_004.md",
+        "xhtml": "velky_getsby_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_005.md",
+        "xhtml": "velky_getsby_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_006.md",
+        "xhtml": "velky_getsby_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_007.md",
+        "xhtml": "velky_getsby_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_008.md",
+        "xhtml": "velky_getsby_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_009.md",
+        "xhtml": "velky_getsby_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_010.md",
+        "xhtml": "velky_getsby_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_011.md",
+        "xhtml": "velky_getsby_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_012.md",
+        "xhtml": "velky_getsby_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_013.md",
+        "xhtml": "velky_getsby_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_014.md",
+        "xhtml": "velky_getsby_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_015.md",
+        "xhtml": "velky_getsby_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "velky_getsby_016.md",
+        "xhtml": "velky_getsby_016.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/velky_gets_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_velky_gatsby_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Bez-stylu-tabulky",
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-citat",
+      "MLP-citat-autor",
+      "MLP-dopis",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text--I",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-uprostred",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven2-kapitola",
+      "MLP-venovani",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "char-style-override-1",
+      "char-style-override-2",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-4",
+      "x--dn-"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "velky-gatsby"
+    },
+    "generatedAt": 1631463143537
+  }
+}
