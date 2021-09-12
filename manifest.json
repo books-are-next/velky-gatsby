@@ -1,0 +1,317 @@
+{
+  "author": "Francis Scott Fitzgerald",
+  "identifier": "fitzgerald-velky-gatsby-e8ce93c",
+  "languagecode": "cs",
+  "modified": "2021-09-12T16:12:23.009Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Velký Gatsby",
+  "revision": "e8ce93c",
+  "generatedAt": {
+    "date": "Sun Sep 12 2021 16:30:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631464255287
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "colophon.html",
+      "words": 198,
+      "chars": 1272,
+      "ideas": 34,
+      "role": "colophon",
+      "order": null,
+      "next": "velky_getsby_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title-",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--2",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "velky_getsby_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "velky_getsby_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "velky_getsby_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "velky_getsby_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "velky_getsby_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "velky_getsby_001.html",
+      "next": "velky_getsby_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola I",
+      "file": "velky_getsby_007.html",
+      "words": 5431,
+      "chars": 32191,
+      "ideas": 151,
+      "role": "chapter",
+      "order": 2,
+      "prev": "velky_getsby_002.html",
+      "next": "velky_getsby_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola I",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola II",
+      "file": "velky_getsby_008.html",
+      "words": 3743,
+      "chars": 22382,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 3,
+      "prev": "velky_getsby_007.html",
+      "next": "velky_getsby_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola II",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola III",
+      "file": "velky_getsby_009.html",
+      "words": 5062,
+      "chars": 30744,
+      "ideas": 173,
+      "role": "chapter",
+      "order": 4,
+      "prev": "velky_getsby_008.html",
+      "next": "velky_getsby_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola III",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola IV",
+      "file": "velky_getsby_010.html",
+      "words": 4957,
+      "chars": 29153,
+      "ideas": 172,
+      "role": "chapter",
+      "order": 5,
+      "prev": "velky_getsby_009.html",
+      "next": "velky_getsby_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola IV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola V",
+      "file": "velky_getsby_011.html",
+      "words": 3715,
+      "chars": 22024,
+      "ideas": 160,
+      "role": "chapter",
+      "order": 6,
+      "prev": "velky_getsby_010.html",
+      "next": "velky_getsby_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola V",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola VI",
+      "file": "velky_getsby_012.html",
+      "words": 3663,
+      "chars": 21965,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 7,
+      "prev": "velky_getsby_011.html",
+      "next": "velky_getsby_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola VI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola VII",
+      "file": "velky_getsby_013.html",
+      "words": 7926,
+      "chars": 46379,
+      "ideas": 415,
+      "role": "chapter",
+      "order": 8,
+      "prev": "velky_getsby_012.html",
+      "next": "velky_getsby_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola VII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola VIII",
+      "file": "velky_getsby_014.html",
+      "words": 4004,
+      "chars": 23243,
+      "ideas": 114,
+      "role": "chapter",
+      "order": 9,
+      "prev": "velky_getsby_013.html",
+      "next": "velky_getsby_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola VIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola IX",
+      "file": "velky_getsby_015.html",
+      "words": 4656,
+      "chars": 27059,
+      "ideas": 178,
+      "role": "chapter",
+      "order": 10,
+      "prev": "velky_getsby_014.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola IX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 43355,
+      "chars": 256412,
+      "ideas": 1669
+    },
+    "chapters": {
+      "words": 43157,
+      "chars": 255140,
+      "ideas": 1635
+    }
+  }
+}
