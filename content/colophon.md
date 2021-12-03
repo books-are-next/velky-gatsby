@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Velký Gatsby
 
@@ -9,9 +11,7 @@ Francis Scott Fitzgerald
 _Přeložil Lubomír Dorůžka_
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Velký Gatsby](https://search.mlp.cz/cz/titul/velky-gatsby-posledni-magnat/138432/) tak, jak bylo vydáno nakladatelstvím Odeon v Praze v roce 1979. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -30,9 +30,7 @@ Verze 1.0 z 3. 2. 2020.
 ![image002.jpg](./resources/image002_fmt.png)
 
 
----
-title: ''
----
+***
 
 _Nos klobouk ze zlata, jestli se na to dá zlákat,  
 jestli jsi skokan, tak zkus před ní povyskočit,  
@@ -43,16 +41,12 @@ miláčku, tebe chci mít!“_
 — Thomas Parke d’Invilliers
 
 
----
-title: ''
----
+***
 
 _Opět Zeldě_
 
 
----
-title: ''
----
+***
 
 **Francis Scott Fitzgerald  
 Velký Gatsby**

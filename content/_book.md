@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-12T16:12:23.009Z'
   languageCode: cs
-chapters:
-  - velky_getsby_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - velky_getsby_002.html
   - velky_getsby_007.html
   - velky_getsby_008.html
@@ -21,6 +22,7 @@ chapters:
   - velky_getsby_013.html
   - velky_getsby_014.html
   - velky_getsby_015.html
+  - colophon.html
 tocBase:
   - link: velky_getsby_007.html
     title: Kapitola I
@@ -46,5 +48,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
