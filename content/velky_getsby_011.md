@@ -1,5 +1,6 @@
 ---
 title: Kapitola V
+contentType: prose
 ---
 
 Když jsem přijel tu noc domů na Západní Vejce, na chvilku jsem se polekal, že mi hoří dům. Byly dvě hodiny a celé zákoutí poloostrova tonulo v záři světla, které neskutečně dopadalo na křoviny a tenkými záblesky klouzalo do dálky po drátech podél silnice. Když jsem zahnul za roh, uviděl jsem, že je to Gatsbyho dům, osvětlený od sklepa až po střechu.

@@ -1,5 +1,6 @@
 ---
 title: Kapitola VII
+contentType: prose
 ---
 
 V době, kdy zvědavý zájem o Gatsbyho dosáhl vrcholu, světla v jeho domě se jednou v sobotu večer nerozsvítila a jeho kariéra jako Trimalchiona skončila právě tak záhadně, jak začala. Jen poznenáhlu jsem si uvědomil, že auta, která s nadějí zahýbala na jeho příjezdovou cestu, se na okamžik zastavovala a potom rozmrzele odjížděla. Napadlo mě, jestli není nemocen, a proto jsem tam zašel, abych to zjistil – u dveří na mne podezíravě zašilhal neznámý sluha s lotrovským obličejem.

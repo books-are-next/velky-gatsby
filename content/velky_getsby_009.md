@@ -1,5 +1,6 @@
 ---
 title: Kapitola III
+contentType: prose
 ---
 
 Do letních nocí zaznívala z domu mého souseda hudba. V jeho modrých zahradách přecházeli muži a děvčata a pohybovali se jako noční motýli mezi šepotem, šampaňským a hvězdami. Za odpoledního přílivu jsem se díval, jak jeho hosté skáčou z věže jeho přístaviště nebo jak se sluní na horkém písku jeho pláže, a jeho dva motorové čluny, vlekoucí vodopádem pěny akvaplány, rozrážejí přitom vody Průlivu. O víkendu se z jeho rolls-royce stal autobus, který vozil společnost do města a zpátky od devíti ráno dlouho přes půlnoc, zatímco jeho stejšn uháněl jako čilý žlutý brouk ke každému vlaku. A v pondělí se pak osm sluhů, zahrnuje v to i zahradníka najatého mimořádně navíc, lopotilo celý den s mopy, rýžáky, kladivy a zahradnickými nůžkami, aby uvedli do pořádku spoušť předešlé noci.
