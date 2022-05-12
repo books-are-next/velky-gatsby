@@ -1,5 +1,6 @@
 ---
 title: Kapitola I
+contentType: prose
 ---
 
 Když jsem byl mladší a všechno se mě hloub dotýkalo, dal mi otec jednu radu, která se mi od té doby pořád honí hlavou.

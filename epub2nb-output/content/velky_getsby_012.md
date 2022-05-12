@@ -1,5 +1,6 @@
 ---
 title: Kapitola VI
+contentType: prose
 ---
 
 Asi tou dobou přijel jednou ráno ke Gatsbyho domu ctižádostivý mladý reportér z New Yorku a zeptal se ho, jestli mu Gatsby může něco říct.

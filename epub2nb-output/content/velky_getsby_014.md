@@ -1,5 +1,6 @@
 ---
 title: Kapitola VIII
+contentType: prose
 ---
 
 Celou noc jsem ani oka nezamhouřil; výstražný signál neustále sténal v mlze Průlivu a já se napůl nemocný zmítal mezi groteskní skutečností a divokými, strašidelnými sny. Za úsvitu jsem slyšel, jak po Gatsbyho cestě jede taxík, ihned jsem vyskočil z postele a začal jsem se oblékat – cítil jsem, že mu musím něco říct, před něčím ho varovat, a ráno by už bylo příliš pozdě.

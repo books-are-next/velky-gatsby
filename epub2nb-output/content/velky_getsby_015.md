@@ -1,5 +1,6 @@
 ---
 title: Kapitola IX
+contentType: prose
 ---
 
 Dnes po dvou letech si vzpomínám na zbytek dne, na onu noc a na příští den jenom jako na nekonečnou přehlídku policie, fotografů a novinářů, kteří procházeli Gatsbyho domovními dveřmi. V hlavní bráně byl natažen provaz a stál tam strážník, který udržoval zvědavce za ním, ale kluci přišli brzy na to, že se mohou dostat dovnitř přes můj dvorek, a tak se jich pořád několik kupilo s otevřenými ústy kolem bazénu. Někdo, vyznačující se rozhodným chováním, snad detektiv, použil výrazu „šílenec“, když se toho odpoledne sklonil nad Wilsonovo tělo, a nahodile autoritativní přízvuk jeho hlasu udal tón novinovým zprávám příštího rána.

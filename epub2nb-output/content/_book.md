@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Velký Gatsby
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - velky_getsby_002.html
+  - promo.html
   - velky_getsby_007.html
   - velky_getsby_008.html
   - velky_getsby_009.html

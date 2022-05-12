@@ -1,5 +1,6 @@
 ---
 title: Kapitola II
+contentType: prose
 ---
 
 Asi v půli cesty mezi Západním Vejcem a New Yorkem připojí se silnice náhle k železniční trati a běží podél ní asi čtvrt míle, aby se vy­hnula jedné zpustlé oblasti. Je to údolí popela – fantastická farma, kde popel roste jako pšenice a vytváří hřebeny, kopce a groteskní zahrady, kde popel nabývá podoby domů, komínů a stoupajícího kouře a konečně se s nadpřirozeným úsilím mění v popelavě šedé muže, kteří se nejasně pohybují vzduchem plným prachu a sami se už rozpadají v prach. Čas od času se po neviditelné cestě připlazí skupina šedých aut, příšerně zaskřípe a zastaví se, a popelavě šedí muži se ihned vyrojí s olověnými lopatami a zvíří neproniknutelný oblak, který zacloní jejich tajemnou činnost před lidským zrakem.

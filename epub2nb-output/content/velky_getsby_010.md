@@ -1,5 +1,6 @@
 ---
 title: Kapitola IV
+contentType: prose
 ---
 
 Za nedělního rána, kdy ve vesničkách na pobřeží vyzváněly kostelní zvony, svět a jeho milenka se vracely do Gatsbyho domu a rozjařeně se mihotaly po trávníku.
