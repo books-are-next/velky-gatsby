@@ -3,6 +3,8 @@ title: Kapitola IX
 contentType: prose
 ---
 
+<section>
+
 Dnes po dvou letech si vzpomínám na zbytek dne, na onu noc a na příští den jenom jako na nekonečnou přehlídku policie, fotografů a novinářů, kteří procházeli Gatsbyho domovními dveřmi. V hlavní bráně byl natažen provaz a stál tam strážník, který udržoval zvědavce za ním, ale kluci přišli brzy na to, že se mohou dostat dovnitř přes můj dvorek, a tak se jich pořád několik kupilo s otevřenými ústy kolem bazénu. Někdo, vyznačující se rozhodným chováním, snad detektiv, použil výrazu „šílenec“, když se toho odpoledne sklonil nad Wilsonovo tělo, a nahodile autoritativní přízvuk jeho hlasu udal tón novinovým zprávám příštího rána.
 
 Většina těch zpráv byla jako zlý sen – samá grotesknost, dohady, senzacechtivost a nepravda. Když po Michaelisově svědectví vyšlo při vyšetřování najevo, z čeho Wilson svou ženu podezíral, myslel jsem, že celou historku budou brzy servírovat jako pikantní paskvil – ale Catherine, která mohla říct bůhvíco, neřekla ani slovo. Ukázala v tomto směru překvapující dávku charakteru – dívala se na vyšetřujícího úředníka zpod poopraveného obočí rozhodnýma očima a přísahala, že její sestra Gatsbyho nikdy neviděla, že její sestra byla se svým mužem dokonale šťastna, že její sestra se nikdy do ničeho nenamočila. Přesvědčila o tom sama sebe a plakala do kapesníku, jako by už jen pouhá taková domněnka byla víc, než může snést. A tak z Wilsona udělali prostě člověka „pomateného zármutkem“, aby případ mohl zůstat co nejjednodušší. A tím to skončilo.
@@ -43,7 +45,9 @@ Někdo mi začal klást otázky, ale já jsem se odvrátil, odešel jsem nahoru 
 
 Druhý den ráno jsem poslal do New Yorku sluhu s dopisem pro Wolfsheima, v němž jsem žádal o informace a zapřísahal ho, aby přijel nejbližším vlakem. Když jsem to psal, zdála se tato prosba zbytečná. Myslel jsem, že se určitě vydá na cestu hned, jak uvidí noviny, stejně jako jsem si myslel, že před polednem určitě přijde telegram od Daisy – ale nepřišel ani telegram, ani pan Wolfsheim; nikdo, kromě nových policistů, fotografů a novinářů. Když sluha přinesl Wolfsheimovu odpověď, pocítil jsem vzdor, hněvnou solidaritu s Gatsbym proti všem ostatním.
 
-  
+</section>
+
+<section>
 
 Milý pane Carrawayi!
 
@@ -55,7 +59,9 @@ _Mayer Wolfsheim_
 
 A dole spěšně připsáno:
 
-  
+</section>
+
+<section>
 
 Oznamte mi, kdy bude pohřeb atd., jeho rodinu vůbec nez­nám.
 
@@ -227,9 +233,9 @@ Zdálo se, že se mu nechce fotografii schovat, držel mi ji zdráhavě ještě 
 
 Otevřel ji odzadu a otočil ji, abych lépe viděl. Na posledním prázdném listě stála tiskacími písmeny slova ROZVRH HODIN a datum 12. září 1906. A pod tím:
 
-  
+</section>
 
- 
+<section>
 
 Vstávat
 
@@ -273,7 +279,9 @@ Ušetřit 5 dolarů (přeškrtnuto) 3 dolary každý týden
 
 Být hodnější k rodičům
 
-  
+</section>
+
+<section>
 
 „Přišel jsem na tu knížku náhodou,“ řekl starý pán. „Z toho vidíte, jaký byl, že ano?“
 
@@ -303,7 +311,9 @@ Sundal si brýle a zase je utřel, zvenku i zevnitř.
 
 „Chudák mizera ubohý,“ řekl.
 
-  
+</section>
+
+<section>
 
 K mým nejživějším vzpomínkám patří, jak jsem se vždycky o Vánocích vracel ze střední školy a potom z univerzity na Západ. Ti, co jezdili dál než do Chicaga, se shromažďovali za prosincového večera na starém šedivém nádraží v Union Street v šest hodin a několik přátel z Chicaga, kteří se už v duchu oddávali vánočním radovánkám, se s nimi přišlo spěšně rozloučit. Vzpomínám si na kožichy děvčat, která se vracela od slečny té a té, na štěbetání zmrzlého dechu, na ruce mávající nad hlavami, když jsme zahlédli staré známé, na kolotoč pozvánek: „Půjdete k Ordwayovům? K Herseyovům? K Schultzovům?“ a na dlouhé zelené lístky, které jsme pevně svírali rukama v rukavicích. A konečně na temně žluté vozy Chicagské, milwaukské & saintpaulské železnice, které vypadaly rozjařeně jako Vánoce samy, na kolejích vedle brány.
 
@@ -333,7 +343,9 @@ Podali jsme si ruce.
 
 Neodpověděla. Obrátil jsem se k odchodu, rozzloben a napůl do ní zamilován, a bylo mi toho strašně líto.
 
-  
+</section>
+
+<section>
 
 Jednou odpoledne koncem října jsem uviděl Toma Buchanana. Vykračoval si přede mnou po Páté avenue svým čilým, útočným krokem, s rukama trochu od těla, jako by se bránil proti dotěravcům, hlavou otáčel rychle ze strany na stranu a přizpůsoboval ji neklidným očím. Právě když jsem zpomalil, abych ho nemusel předejít, zastavil se a začal se kabonit do výkladu nějakého klenotnictví. Najednou mě uviděl a s napřaženou rukou se vrátil.
 
@@ -370,3 +382,5 @@ A když jsem tam seděl a hloubal o starém neznámém světě, myslel jsem n
 Gatsby věřil v to zelené světlo, vzrušující budoucnost, která před námi rok od roku ustupuje. Dnes nám unikla, ale nevadí – zítra poběhneme rychleji, rozpřáhneme paže dále… A jednoho krásného rána –
 
 A tak sebou zmítáme dál, lodě deroucí se proti proudu, bez přestání unášeni zpátky do minulosti.
+
+</section>

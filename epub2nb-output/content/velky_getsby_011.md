@@ -3,6 +3,8 @@ title: Kapitola V
 contentType: prose
 ---
 
+<section>
+
 Když jsem přijel tu noc domů na Západní Vejce, na chvilku jsem se polekal, že mi hoří dům. Byly dvě hodiny a celé zákoutí poloostrova tonulo v záři světla, které neskutečně dopadalo na křoviny a tenkými záblesky klouzalo do dálky po drátech podél silnice. Když jsem zahnul za roh, uviděl jsem, že je to Gatsbyho dům, osvětlený od sklepa až po střechu.
 
 Nejdřív jsem myslel, že zase pořádá nějaký večírek, nějakou divokou hostinu, která vyvrcholila hrou na sardinky nebo na schovávanou po celém domě. Ale nebylo slyšet ani hlesu. Jenom vítr ve stromech, který foukal do drátů a v jehož poryvech světla zhasínala a zase se rozsvěcovala, jako kdyby dům mrkal do temnoty. Když můj taxík odsupěl, uviděl jsem Gatsbyho, jak jde ke mně přes trávník.
@@ -241,7 +243,9 @@ Vyndal hromadu košil a začal je jednu po druhé házet na stůl před námi, 
 
 „Takové krásné košile,“ vzlykala hlasem přidušeným v chumlu tkanin. „Je mi z toho smutno, protože jsem ještě nikdy neviděla takové – tak krásné košile.“
 
-  
+</section>
+
+<section>
 
 Po prohlídce domu jsme se měli podívat na pozemek, na bazén, na kluzák a na svatojánské květiny – ale za Gatsbyho okny se dalo zase do deště, a tak jsme stáli vedle sebe a dívali se na zbrázděnou hladinu Průlivu.
 
@@ -301,27 +305,37 @@ Když Klipspringer dohrál _Hnízdečko lásky,_ otočil se na židli a v př�
 
 „Nemluvte tolik, kamaráde,“ rozkázal Gatsby. „Hrajte!“
 
-  
+</section>
+
+<section>
 
 „Každé ráno,  
 každý večer  
 je to prima —“
 
-  
+</section>
+
+<section>
 
 Venku skučel vítr a od zálivu sem chabě doléhal zvuk hromu. Na Západním Vejci se už rozsvěcovala všechna světla; elektrické vlaky, plné lidí, razily si deštěm cestu domů z New Yorku. Byla to hodina hlubokých lidských změn a vzrušení se rodilo ve vzduchu.
 
-  
+</section>
+
+<section>
 
 „Znám jednu pravdu, i když trudnou,  
 boháči bohatnou, chudáci – mají děti  
 a mezitím  
 čas od času —“
 
-  
+</section>
+
+<section>
 
 Když jsem se šel rozloučit, viděl jsem, že se na Gatsbyho tváři zase objevil výraz zmatku, jako kdyby ho při myšlence na ráz nynějšího štěstí zachvátila jakási mlhavá pochybnost. Skoro pět let! I toho odpoledne musely být okamžiky, kdy se Daisy nedokázala vyrovnat jeho snové představě – ne vlastní vinou, ale pro obrovskou životnost jeho iluzí. Bylo to nad její síly, nad jakékoliv síly. Vrhl se do věci s vášní tvůrce, něco k ní neustále přidával, okrašloval ji každým pestrým pírkem, které k němu vánek donesl. Nic nemůže být tak ohnivé a tak svěží jako to, co člověk dokáže nahromadit v příšeří svého srdce.
 
 Když jsem ho pozoroval, zřejmě se s tím už trošku vyrovnal. Uchopil ji za ruku, a když mu něco zašeptala do ucha, otočil se k ní v návalu vzrušení. Myslím, že ten hlas ho poutal nejvíc – to nestálé horečnaté teplo – protože to nemohly zdokonalit ani sny – ten hlas byla nesmrtelná píseň.
 
 Zapomněli na mne, ale Daisy ke mně vzhlédla a podala mi ruku. Gatsby o mně už vůbec nevěděl. Podíval jsem se na ně ještě jednou a oni se duchem vzdáleni podívali na mne, zachváceni intenzívním životem. Potom jsem odešel z pokoje a kráčel jsem dolů po mramorových schodech do deště a nechal jsem je tam spolu.
+
+</section>

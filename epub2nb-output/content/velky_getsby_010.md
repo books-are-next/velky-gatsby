@@ -3,6 +3,8 @@ title: Kapitola IV
 contentType: prose
 ---
 
+<section>
+
 Za nedělního rána, kdy ve vesničkách na pobřeží vyzváněly kostelní zvony, svět a jeho milenka se vracely do Gatsbyho domu a rozjařeně se mihotaly po trávníku.
 
 „Pašuje lihoviny,“ říkaly mladé dámy pohybující se kdesi mezi jeho koktajly a květinami. „Kdysi zabil člověka, který přišel na to, že je Hindenburgův synovec a čertův bratranec z druhého kolena. Zlatíčko, podej mi růži a nalej mi ještě kapku do tamhleté křišťálové sklenice.“
@@ -23,7 +25,9 @@ Kromě těchhle všech se ještě pamatuji, že tam přijela alespoň jednou Fau
 
 Všichni ti lidé jezdili onoho léta ke Gatsbymu.
 
-  
+</section>
+
+<section>
 
 Jednou ráno v devět hodin koncem července zahnulo náhle Gatsbyho nádherné auto po kamenité vozovce k mému vchodu a jeho trojhlasý klakson ze sebe vychrlil útržek melodie. Bylo to poprvé, co mě navštívil, ačkoliv já jsem byl u něho na dvou večírcích, jel jsem v jeho kluzáku a na jeho naléhavé pozvání jsem hojně používal jeho pláže.
 
@@ -119,7 +123,9 @@ Minula nás mrtvola v pohřebním voze s hromadou květin, za ním jely dva vo
 
 I Gatsby byl možný, bez jakéhokoliv zvláštního zázraku.
 
-  
+</section>
+
+<section>
 
 Řvoucí poledne. V dobře větraném sklípku na Dvaačtyřicáté ulici jsem se sešel s Gatsbym u oběda. Očima, které ze sebe mrkáním setřásaly zář ulice venku, jsem ho vyhrabal z nejasné předsíně, kde hovořil s nějakým jiným mužem.
 
@@ -261,7 +267,9 @@ Podali si ruce, krátce je stiskli a na Gatsbyho tváři se objevil neznámý n
 
 Otočil jsem se na pana Gatsbyho, ale ten už tam nebyl.
 
-  
+</section>
+
+<section>
 
 Jednou v říjnu v roce devatenáct set sedmnáct – (řekla Jordan Bakerová tenkrát odpoledne, sedíc vzpřímená na židli v čajovně pod širým nebem v hotelu Plaza, jako by měla v zádech pravítko) – jsem se procházela z místa na místo, kousek po chodníku, kousek po trávníku. Radši jsem chodila po trávníku, protože jsem měla boty z Anglie s gumovými knoflíky na podrážkách, které se zapichovaly do měkké půdy. Měla jsem na sobě také novou kostkovanou sukni, která trochu vlála ve větru, a vždycky, když zavlála, červenobílomodré prapory na žerdi před domy se napjaly a ztuhly a s nesouhlasem se ozvaly _tak-tak-tak._
 
@@ -299,18 +307,24 @@ V dubnu příštího roku se Daisy narodila holčička a odjeli na rok do Fran
 
 No, asi před šesti týdny uslyšela Gatsbyho jméno po letech poprvé. To tehdy, když jsem se vás zeptala – pamatujete se? – jestli znáte Gatsbyho ze Západního Vejce. Když jste odešel domů, přišla do mého pokoje, vzbudila mě a řekla: „Jakého Gatsbyho?“, a když jsem ho popsala – napůl jsem přitom spala –, řekla strašně podivným hlasem, že to musí být člověk, kterého znala. Teprve pak jsem si dala dohromady tohohle Gatsbyho s důstojníkem v jejím bílém voze.
 
-  
+</section>
+
+<section>
 
 Když Jordan Bakerová skončila své vyprávění, byli jsme už asi půl hodiny z hotelu Plaza a projížděli jsme v kočáře Ústředním parkem. Slunce už zapadlo za vysoké činžovní domy filmových hvězd západních „Padesátek“ a jasné hlasy holčiček, shromážděných už jako cvrčkové v trávě, se ozývaly horkým soumrakem:
 
-  
+</section>
+
+<section>
 
 „Já jsem ten šejk z Arábie.  
 Pro mne tvoje srdce bije.  
 Až ti spánek oči sklíží,  
 do stanu se k tobě vplížím —“
 
-  
+</section>
+
+<section>
 
 „To byla zvláštní náhoda,“ řekl jsem.
 
@@ -353,3 +367,5 @@ Byla už tma, a když jsme projížděli pod malým mostem, položil jsem ruku 
 „Nesmí o tom vědět. Gatsby nechce, aby o tom věděla. Máte ji jenom pozvat na čaj.“
 
 Přejeli jsme kolem stěny tmavých stromů a pak zazářila do parku fasáda Devětapadesáté ulice, hranol jemného bledého světla. Na rozdíl od Gatsbyho a Toma Buchanana neměl jsem žádnou dívku, jejíž odtělesněná tvář by se vznášela mezi tmavými římsami a oslepujícími reklamami, a tak jsem pevněji sevřel své objetí a přitáhl jsem děvče vedle mne blíž k sobě. Její bledá, vzdorovitá ústa se usmála, a tak jsem si ji přitáhl ještě blíž, tentokrát k obličeji.
+
+</section>

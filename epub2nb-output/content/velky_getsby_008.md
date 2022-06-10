@@ -3,6 +3,8 @@ title: Kapitola II
 contentType: prose
 ---
 
+<section>
+
 Asi v půli cesty mezi Západním Vejcem a New Yorkem připojí se silnice náhle k železniční trati a běží podél ní asi čtvrt míle, aby se vy­hnula jedné zpustlé oblasti. Je to údolí popela – fantastická farma, kde popel roste jako pšenice a vytváří hřebeny, kopce a groteskní zahrady, kde popel nabývá podoby domů, komínů a stoupajícího kouře a konečně se s nadpřirozeným úsilím mění v popelavě šedé muže, kteří se nejasně pohybují vzduchem plným prachu a sami se už rozpadají v prach. Čas od času se po neviditelné cestě připlazí skupina šedých aut, příšerně zaskřípe a zastaví se, a popelavě šedí muži se ihned vyrojí s olověnými lopatami a zvíří neproniknutelný oblak, který zacloní jejich tajemnou činnost před lidským zrakem.
 
 Ale nad šedou zemí a chuchvalci pochmurného prachu, který se tam neustále vznáší, zpozorujete po nějaké chvilce oči doktora T. J. Eckleburga. Oči doktora T. J. Eckleburga jsou modré a obrovské – jejich sítnice měří na výšku jeden yard. Nedívají se z žádné tváře, ale z páru ohromných žlutých brýlí, které se opírají o neexistující nos. Zřejmě je tam postavil jakýsi nezřízený šprýmař, oční lékař, aby pomohl na nohy své praxi v okrsku Queens, a pak se sám propadl do věčné slepoty, nebo na ně zapomněl a odstěhoval se. Ale jeho oči, trochu vybledlé na slunci a v dešti po tolika dnech, kdy se jich nedotkla barva, dumají dále nad tímto velebným smetištěm.
@@ -276,3 +278,5 @@ Pak se na podlaze v koupelně válely krvavé ručníky a ženské hlasy spíl
 _„Kráska a zvíře… Samota… Kůň starého hokynáře… Brooklynský most…“_
 
 Potom jsem ležel v polospánku na studeném dolním nástupišti Pensylvánského nádraží, zíral jsem do ranních_Tribune_ a čekal na vlak, který odjíždí ve čtyři hodiny ráno.
+
+</section>
