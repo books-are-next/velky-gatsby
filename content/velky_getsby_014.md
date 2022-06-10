@@ -3,6 +3,8 @@ title: Kapitola VIII
 contentType: prose
 ---
 
+<section>
+
 Celou noc jsem ani oka nezamhouřil; výstražný signál neustále sténal v mlze Průlivu a já se napůl nemocný zmítal mezi groteskní skutečností a divokými, strašidelnými sny. Za úsvitu jsem slyšel, jak po Gatsbyho cestě jede taxík, ihned jsem vyskočil z postele a začal jsem se oblékat – cítil jsem, že mu musím něco říct, před něčím ho varovat, a ráno by už bylo příliš pozdě.
 
 Přešel jsem přes jeho trávník a uviděl jsem, že jeho domovní dveře jsou dosud otevřené a on se opírá o stůl v hale, zmožen sklíčeností nebo spánkem.
@@ -31,13 +33,17 @@ Ale on necítil opovržení sám k sobě a nedopadlo to, jak si představoval.
 
 Když se zase dva dny nato setkali, byl to Gatsby, kdo ani nedýchal, kdo byl jaksi podveden. Veranda zářila koupeným přepychem hvězdné záře; proutěná lehačka módně zaskřípala, když se k němu otočila, a on ji políbil na zvědavá a líbezná ústa. Byla nachlazená a hlas jí trochu ochraptěl a byl kouzelnější a Gatsby byl zavalen vědomím mládí a tajemnosti, jež v sobě bohatství poutá a uchovává, novostí spousty jejích šatů a Daisy samé, jež zářila jako stříbro v bezpečí a pyšně povznesená nad divoké zápasy chudých.
 
-  
+</section>
+
+<section>
 
 „Nemohu vám popsat, jak mě překvapilo, když jsem přišel na to, že ji miluji, kamaráde. Chvíli jsem dokonce i doufal, že mě hodí přes palubu, ale ona to neudělala, protože mě měla taky ráda. Myslila, že toho hodně vím, protože jsem znal jiné věci než ona… A tak to bylo, moje ambice byly ty tam, minutu od minuty jsem byl zamilovanější a zamilovanější a najednou mi to bylo jedno. Jaký mělo smysl dělat veliké věci, když mě víc bavilo vyprávět jí, co hodlám podniknout?“
 
 Poslední odpoledne, než odjel do Evropy, seděl dlouho a tiše s Daisy v náručí. Byl chladný podzimní den, v pokoji plápolal oheň a Daisy zrůžověly tváře. Občas se pohnula a on dal paži trochu jinak a jednou ji políbil na tmavé lesklé vlasy. Odpoledne je na chvíli uklidnilo, jako by jim chtělo vtisknout vzpomínku pro dlouhou dobu rozloučení, které sliboval příští den. Nikdy za ten měsíc své lásky si nebyli blíže ani se hlouběji nesblížili, než když mu tiché rty přejížděly po rameni kabátu nebo když se dotkl konečků jejích prstů, jemně, jako by spala.
 
-  
+</section>
+
+<section>
 
 Za války si vedl obzvláště dobře. Byl kapitánem dřív, než odešel na frontu, a po bitvě v Argonnách získal hodnost majora a velení nad kulomety divize. Po příměří se šíleně snažil dostat domů, ale jakýmisi komplikacemi nebo nedorozuměním byl místo toho poslán do Oxfordu. A tam se trápil – z Daisyiných dopisů vytušil jakési nervózní zoufalství. Nechápala, proč nemůže přijet. Pociťovala nátlak okolního světa a chtěla ho vidět, cítit ho vedle sebe a být ujištěna, že koneckonců jedná správně.
 
@@ -47,7 +53,9 @@ Tímto zešeřelým vesmírem se Daisy zase začala pohybovat v rytmu sezóny; 
 
 Tato síla se ztvárnila uprostřed jara příchodem Toma Buchanana. Z jeho osoby a postavení čišela zdravá houževnatost, a to Daisy lichotilo. Bezpochyby u ní došlo k nějakému vnitřnímu boji a pak následovala určitá úleva. Dopis stihl Gatsbyho, když byl ještě v Oxfordu.
 
-  
+</section>
+
+<section>
 
 Nad Long Islandem už svítalo a my jsme chodili a otvírali ostatní okna v přízemí a dům se plnil šedozlatým světlem. Do rosy dopadl náhle stín stromu a v modrých listech začali zpívat přízrační ptáci. Vzduch pomalu, příjemně proudil, vanul téměř neznatelný větřík a sliboval chladný, nádherný den.
 
@@ -105,7 +113,9 @@ Poděkoval jsem mu za pohostinství. Vždycky jsme mu za ně dě­kovali – j�
 
 „Sbohem,“ zvolal jsem. „Snídaně byla výborná, Gatsby.“
 
-  
+</section>
+
+<section>
 
 Když jsem se dostal zase do města, pokoušel jsem se chvíli zaznamenávat nabídky nekonečného počtu akcií, a potom jsem v otáčecí židli usnul. Těsně před polednem mě probudil telefon, vyskočil jsem a na čele mi vyvstal pot. Byla to Jordan Bakerová; často mě volala v tuto hodinu; bylo těžké zastihnout ji jiným způsobem, protože člověk nikdy nevěděl, ve kterém hotelu, klubu nebo soukromém domě zrovna je. Obyčejně jí v telefonu hlas zněl svěže a chladně, jako by trs trávy ze zeleného golfového hřiště připlul k oknu kanceláře, ale toho rána se mi zdál drsný a suchý.
 
@@ -135,7 +145,9 @@ Chvíli jsme tak mluvili a pak už najednou nemluvili. Nevím, kdo z nás s o
 
 Po několika minutách jsem zavolal Gatsbymu, ale linka byla obsazena. Pokusil jsem se o to čtyřikrát. Konečně mi telefonní ústředna podrážděně řekla, že je linka blokována pro meziměstský rozhovor z Detroitu. Vyndal jsem jízdní řád a nakreslil jsem malé kolečko kolem vlaku ve tři padesát. Potom jsem se uvelebil do křesla a snažil se přemýšlet. Bylo právě poledne.
 
-  
+</section>
+
+<section>
 
 Když jsem toho rána jel kolem hromad s popelem, úmyslně jsem přešel na druhou stranu vagónu. Předpokládal jsem, že tam bude celý zástup zvědavců, kluci, kteří budou hledat tmavé skvrny v prachu, a nějaký upovídaný člověk, který bude pořád dokola vykládat, co se tu stalo, až to i pro něho bude stále míň pravda a on to už dál nebude moci vyprávět a na tragický čin Myrtle Wilsonové se zapomene. Teď se chci vrátit trochu nazpět a povědět, co se stalo ve správkárně, když jsme odtamtud předešlou noc odjeli.
 
@@ -227,7 +239,9 @@ K šesté hodině toho už měl Michaelis dost a s povděkem přijal hluk aut
 
 Dodatečně se zjistilo, že se vydal – celou cestu šel pěšky – k Port Rooseveltu a potom ke Gad’s Hillu, kde si koupil chlebíček, který nesnědl, a šálek kávy. Musel být unaven a šel pomalu, protože se do Gad’s Hillu dostal teprve k polednímu. Až potud nebylo obtížné zjistit, co dělal – našli se hoši, kteří viděli člověka, „který vypadal jako blázen“, a automobilisté, na které podivně zíral z okraje silnice. Potom na tři hodiny zmizel z dohledu. Na základě toho, co řekl Michaelisovi – že „ví, jak na to přijde, kdo to byl,“ – domnívala se policie, že celý ten čas strávil obcházením garáží a dotazováním po žlutém voze. Jenže zase nenašli ani jednoho garážmistra, který by ho viděl, a on snad měl nějaký snazší, jistější způsob, jak zjistit to, co chtěl vědět. Kolem půl třetí byl na Západním Vejci, kde se někoho vyptal na cestu ke Gatsbyho domu. Takže tou dobou znal už Gatsbyho jméno.
 
-  
+</section>
+
+<section>
 
 Ve dvě hodiny si Gatsby oblékl plavky a řekl sluhovi, že bude-li někdo telefonovat, má mu to jít sdělit k bazénu. Zastavil se v garáži pro nafukovací matraci, s níž se v létě bavili jeho hosté, a šofér mu ji pomohl napumpovat. Potom nařídil, že se s otevřeným autem nesmí za žádných okolností vyjet – což bylo divné, protože pravý přední blatník potřeboval opravu.
 
@@ -240,3 +254,5 @@ Gatsby si dal matraci na rameno a odešel k bazénu. Jednou se zastavil a tro
 Voda slabě, téměř neznatelně plynula, jak si čerstvý přítok z jednoho konce razil cestu k výtoku na druhé straně. Na slabě zčeřené hladině, po níž ubíhaly sotva stíny vln, se po bazénu sem tam točila obtěžkaná matrace. Lehounký závan větru, jenž stěží čeřil povrch, stačil, aby porušil její náhodnou dráhu s náhodným břemenem. Když se dotkla chomáče listí, pomalu se otočila a jako nožka kružítka za sebou nechala ve vodě stopu: tenký červený kroužek.
 
 Teprve když jsme se vydali s Gatsbym k domu, uviděl zahradník Wilsonovo mrtvé tělo o kousek dál v trávě a krvavá historie byla úplná.
+
+</section>

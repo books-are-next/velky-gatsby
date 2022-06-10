@@ -3,6 +3,8 @@ title: Kapitola VII
 contentType: prose
 ---
 
+<section>
+
 V době, kdy zvědavý zájem o Gatsbyho dosáhl vrcholu, světla v jeho domě se jednou v sobotu večer nerozsvítila a jeho kariéra jako Trimalchiona skončila právě tak záhadně, jak začala. Jen poznenáhlu jsem si uvědomil, že auta, která s nadějí zahýbala na jeho příjezdovou cestu, se na okamžik zastavovala a potom rozmrzele odjížděla. Napadlo mě, jestli není nemocen, a proto jsem tam zašel, abych to zjistil – u dveří na mne podezíravě zašilhal neznámý sluha s lotrovským obličejem.
 
 „Pan Gatsby je nemocný?“
@@ -325,7 +327,9 @@ Ta krajina měla v sobě vždycky, i v jasné odpolední záři, něco neurč
 
 V jednom okně nad garáží byly záclony trošku shrnuté ke straně a Myrtle Wilsonová hleděla dolů na auto. Zaujalo ji to tak, že si ani neuvědomila, že ji někdo pozoruje, a jeden výraz citového hnutí po druhém se jí objevoval na obličeji jako předměty na pomalu vyvolávané fotografii. Její výraz mi byl podivně povědomý – byl to výraz, jaký jsem na tvářích žen viděl často, ale na tváři Myrtle Wilsonové se zdál bezúčelný a nevysvětlitelný, dokud jsem si neuvědomil, že očima široce rozevřenýma hrůzou a žárlivostí visí ne na Tomovi, ale na Jordan Bakerové, kterou považovala za jeho ženu.
 
-  
+</section>
+
+<section>
 
 Nikdo nepodléhá zmatku tak jako prostoduší lidé, a když jsme odjížděli, přepadaly Toma prudké záchvaty paniky. Jeho žena i jeho milenka, ještě před hodinou bezpečné a netknuté, unikaly střemhlav z jeho moci. Podvědomě šlápl na plyn, jednak aby dohnal Daisy, jednak aby se zbavil Wilsona, a řítili jsme se k Astorii rychlostí padesát mil za hodinu, až se nám v pavučině nosných sloupů zvýšené dráhy objevil pohodlně jedoucí modrý roadster.
 
@@ -619,7 +623,9 @@ Bylo sedm hodin, když jsme s ním nasedli do roadsteru a vyjeli k Long Islan
 
 Tak jsme ujížděli vstříc smrti chladným soumrakem.
 
-  
+</section>
+
+<section>
 
 Mladý Řek Michaelis, který vedl kavárničku vedle hromad popela, byl korunním svědkem při vyšetřování. Za vedra spal, až bylo pět pryč, a pak se odloudal ke garáži a v kanceláři našel George Wilsona, kterému bylo špatně – opravdu špatně, byl bledý jako jeho bledé vlasy a třásl se po celém těle. Michaelis mu poradil, aby si šel lehnout, ale Wilson odmítl, protože by prý přišel o obchody, kdyby to udělal. A jak se ho jeho soused snažil přemluvit, vypukl nad nimi divoký rámus.
 
@@ -637,7 +643,9 @@ Chvilku nato vyběhla ven do soumraku, mávala rukama a křičela – a než 
 
 Michaelis a ten člověk k ní doběhli první, ale když jí roztrhli blůzu, ještě vlhkou od potu, spatřili, že levé ňadro jí visí bezvládně a ochable, a nemělo ani smysl poslouchat, jestli srdce pod ním bije. Ústa byla široce rozevřena a trošku natržena v koutcích, jako by se byla dusila, když se musela vzdát té úžasné životnosti, kterou v sobě tak dlouho skrývala.
 
-  
+</section>
+
+<section>
 
 Už zdaleka jsme viděli tři nebo čtyři auta a zástup lidí.
 
@@ -741,7 +749,9 @@ Tom jel pomalu, dokud jsme nebyli za zatáčkou, potom nohou pevně sešlápl pe
 
 „Ten mizerný zbabělec!“ vzlykal. „Ani nezastavil.“
 
-  
+</section>
+
+<section>
 
 Dům Buchananů se náhle před námi vynořil mezi temnými, šumícími stromy. Tom zastavil u vchodu a pohlédl nahoru do druhého patra, kde mezi divokým vínem rozkvetla světlem dvě okna.
 
@@ -838,3 +848,5 @@ Zavrtěl hlavou.
 „Chci tady počkat, dokud nepůjde Daisy spát. Dobrou noc, kamaráde.“
 
 Strčil ruce do kapes kabátu, otočil se a začal znovu dychtivě a pečlivě prohlížet dům, jako by moje přítomnost mařila jeho posvátné bdění. A tak jsem odešel a nechal jsem ho tam v měsíčním světle stát a bdít nad ničím.
+
+</section>

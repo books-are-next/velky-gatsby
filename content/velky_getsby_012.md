@@ -3,6 +3,8 @@ title: Kapitola VI
 contentType: prose
 ---
 
+<section>
+
 Asi tou dobou přijel jednou ráno ke Gatsbyho domu ctižádostivý mladý reportér z New Yorku a zeptal se ho, jestli mu Gatsby může něco říct.
 
 „O čem něco říct?“ zeptal se Gatsby zdvořile.
@@ -268,3 +270,5 @@ Mluvil hodně o minulosti a já z toho usoudil, že chce něco získat znovu,
 Srdce mu bilo rychleji a rychleji, jak se Daisyina bílá tvář přibližovala k jeho. Věděl, že když tuto dívku políbí a navždy zasnoubí své nevyslovitelné vidiny s jejím smrtelným dechem, nebude se jeho mysl už nikdy lehce vznášet jako mysl boží. A tak čekal a ještě chvíli naslouchal ladičce, která uhodila o hvězdu. Potom ji políbil. Když se jejich rty setkaly, rozkvetla pro něj jako květina a vtělení bylo úplné.
 
 Všechno, co říkal, dokonce i jeho děsivá sentimentalita, mi něco připomínalo. Prchavý rytmus, úlomky ztracených slov, které jsem slyšel někdy dávno v minulosti. Na okamžik se mi na jazyk drala jakási věta, bojovala o zrození, a rty se pootevřely jako rty němého člověka, jako kdyby se na nich odehrával větší zápas než jen záchvěv polekaného vzduchu. Ale nic se z nich neozvalo a to, nač jsem se málem rozpomněl, zůstalo navždy nesdělitelné.
+
+</section>

@@ -2,18 +2,29 @@
 title: Tiráž
 ---
 
+<section>  
 **Francis Scott Fitzgerald    
 Velký Gatsby**  
+</section>  
+<section>  
 Edice Knížky do školy  
 Překlad Lubomír Dorůžka  
-Ilustrace na obálce Gorbash Varvara/Shutterstock.com  
 Redakce Markéta Teuchnerová  
+</section>  
+<section>  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
+<section>  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+</section>  
+<section>  
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
+
+<section>
 
 Znění tohoto textu vychází z díla [Velký Gatsby](https://search.mlp.cz/cz/titul/velky-gatsby-posledni-magnat/138432/) tak, jak bylo vydáno nakladatelstvím Odeon v Praze v roce 1979. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -26,18 +37,10 @@ Text díla (Francis Scott Fitzgerald: Velký Gatsby), publikovaného [Městskou�
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.png)
 
-***
-
-_Nos klobouk ze zlata, jestli se na to dá zlákat,  
-jestli jsi skokan, tak zkus před ní povyskočit,  
-až křikne: „Miláčku ve zlatém kloboučku,  
-co umíš tak pěkně skákat,  
-miláčku, tebe chci mít!“_
-
-— Thomas Parke d’Invilliers
-
-_Opět Zeldě_
+</section>

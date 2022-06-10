@@ -3,6 +3,8 @@ title: Kapitola III
 contentType: prose
 ---
 
+<section>
+
 Do letních nocí zaznívala z domu mého souseda hudba. V jeho modrých zahradách přecházeli muži a děvčata a pohybovali se jako noční motýli mezi šepotem, šampaňským a hvězdami. Za odpoledního přílivu jsem se díval, jak jeho hosté skáčou z věže jeho přístaviště nebo jak se sluní na horkém písku jeho pláže, a jeho dva motorové čluny, vlekoucí vodopádem pěny akvaplány, rozrážejí přitom vody Průlivu. O víkendu se z jeho rolls-royce stal autobus, který vozil společnost do města a zpátky od devíti ráno dlouho přes půlnoc, zatímco jeho stejšn uháněl jako čilý žlutý brouk ke každému vlaku. A v pondělí se pak osm sluhů, zahrnuje v to i zahradníka najatého mimořádně navíc, lopotilo celý den s mopy, rýžáky, kladivy a zahradnickými nůžkami, aby uvedli do pořádku spoušť předešlé noci.
 
 Každý pátek přišlo od ovocnáře z New Yorku pět košů pomerančů a citrónů – každé pondělí tytéž pomeranče a citróny opouštěly jeho zadní vchod, proměněny v pyramidu dutých polokoulí. V kuchyni byl stroj, který za půl hodiny vytlačil šťávu ze dvou set pomerančů, jestliže číšník dvěstěkrát zmáčkl palcem malý knoflík.
@@ -311,7 +313,9 @@ Zaváhal.
 
 Mňoukající klaksony dosáhly crescenda a já jsem se otočil a přešel po trávníku domů. Jednou jsem se ohlédl. Hostie měsíce, která svítila nad Gatsbyho domem a v jejíchž paprscích byla noc příjemná jako předtím, přežila smích a zvuky pořád ještě zářící zahrady. Jako by se z oken a velkých dveří náhle valila prázdnota, v níž se postava hostitele, stojícího na verandě s rukou zdviženou k formálnímu gestu na rozloučenou, ztrácí v úplném zapomnění.
 
-  
+</section>
+
+<section>
 
 Když znovu pročítám, co jsem dosud napsal, vidím, že by to mohlo působit dojmem, jako by události tří nocí, vzdálených od sebe několik týdnů, byly všechno, co mě zaujalo. Právě naopak; byly to pouze nahodilé události v létě nabitém děním a až donedávna mě zaměstnávaly nekonečně méně než mé osobní záležitosti.
 
@@ -348,3 +352,5 @@ Mně na tom nezáleželo. Nepoctivost člověk ženě nikdy hluboce nevyčítá�
 Hleděla šedýma, ve slunci mžikajícíma očima přímo před sebe, ale přesto s rozmyslem změnila náš vzájemný vztah a na okamžik jsem si myslel, že ji miluji. Ale myslí mi to pomalu a jsem plný vnitřních zásad, které působí na mé touhy jako brzdy, a věděl jsem, že se nejdřív musím doma nadobro dostat z toho zmatku. Psal jsem jednou týdně dopisy, podpisoval jsem je „Tvůj milující Nick“ a nedokázal jsem přitom myslet na nic jiného než na to, jak když ta dívka hraje tenis, objeví se jí nad horním rtem slabý knírek potu. Přece však mezi námi byla jakási neurčitá dohoda, kterou bylo nutno taktně zrušit, než budu volný.
 
 Každý podezírá sám sebe alespoň z jedné základní ctnosti, a moje je: jsem jedním z mála počestných lidí, jaké jsem kdy znal.
+
+</section>

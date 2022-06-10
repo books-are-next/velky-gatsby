@@ -3,6 +3,8 @@ title: Kapitola I
 contentType: prose
 ---
 
+<section>
+
 Když jsem byl mladší a všechno se mě hloub dotýkalo, dal mi otec jednu radu, která se mi od té doby pořád honí hlavou.
 
 „Vždycky když dostaneš chuť někoho kritizovat,“ řekl mi, „vzpomeň si, že všichni lidé na tomhle světě neměli takové výhody jako ty.“
@@ -11,7 +13,9 @@ Víc neřekl, ale byli jsme k sobě vždycky jistým zdrženlivým způsobem ne
 
 Když jsem se takto pochlubil svou snášenlivostí, musím přiznat, že má jisté meze. Základy chování mohou spočívat na tvrdé skále nebo na mokrých bažinách, ale když to dosáhne určité meze, je mi už jedno, na čem spočívají. Když jsem se loni na podzim vrátil z Východu, cítil jsem, že toužím, aby svět nosil uniformu a postavil se jednou provždy do jakéhosi morálního pozoru; nestál jsem už o žádné bouřlivé výlety, na nichž by se mi dostalo privilegia nakouknout do lidského srdce. Jenom na člověka, který dává této knize jméno, jsem nereagoval tímto způsobem – na Gatsbyho, jenž byl ztělesněním všeho, k čemu cítím nepředstírané opovržení. Rodí-li se osobnost z nepřetržité řady úspěšných gest, pak v něm bylo něco oslnivého, jakási zvýšená citlivost pro přísliby života, jako kdyby byl spřízněn s některým z oněch složitých přístrojů, které zaznamenávají zemětřesení na vzdálenost deseti tisíc mil. Takhle citlivá vnímavost neměla nic společného s onou otřelou přístupností dojmům, která se skrývá pod důstojným pojmem „tvůrčí povahy“ – bylo to mimořádné nadání doufat, romantická schopnost být neustále v očekávání, jakou jsem u nikoho jiného nikdy nenašel a jakou asi už stěží někdy najdu. Ne – nakonec se ukázalo, že s Gatsbym je všecko v pořádku; mému zájmu o jalové stesky a krátkodeché extáze lidských bytostí učinilo načas konec to, čeho se Gatsby stal kořistí, ten bídný prach, který se zvedal za jeho sny.
 
-  
+</section>
+
+<section>
 
 Naše rodina patří již tři generace k význačným zámožným lidem v tomto středozápadním městě. Carrawayové jsou vlastně jakýsi klan a říká se o nás, že pocházíme od vévody z Buccleuchu; ale skutečný zakladatel větve, k níž patřím, byl bratr mého dědečka, který se sem přistěhoval v roce jednapadesátém, do občanské války za sebe poslal náhradníka a zařídil si železářství ve velkém, které můj otec vede dodnes.
 
@@ -241,7 +245,9 @@ Zřejmě k tomu měla důvod. Čekal jsem, ale neřekla už nic, a po chvíli 
 
 Víš, já si myslím, že teď je vůbec všechno hrozné,“ pokračovala s přesvědčením. „Všichni si to myslí – ti nejmodernější lidé. A já to _vím._ Všude jsem byla, všechno jsem viděla a všechno jsem dělala.“ Blýskala vzdorovitě očima na všechny strany, skoro jako Tom, a smála se s okouzlujícím pohrdáním. „Vidím všemu do karet – bože, jak já vidím všemu do karet!“ V tom okamžiku, kdy se její hlas náhle odmlčel a přestal ovládat mou pozornost i mou víru, pocítil jsem, že to, co řekla, je od základu neupřímné. Udělalo se mi z toho nevolno, jako by celý večer byl jakousi léčkou, jak ze mne vymáčknout soucit. Počkal jsem a opravdu za chvíli na mne pohlédla a v její hezké tváři se objevil úšklebek podle všech pravidel, jako by byla dokázala, že je členem nějaké značně exkluzivní tajné společnosti, do níž patří i Tom.
 
-  
+</section>
+
+<section>
 
 V domě kvetl nachový pokoj světlem. Tom a slečna Bakerová seděli každý na jednom konci dlouhého gauče a ona mu nahlas předčítala ze _Saturday Evening Post_ – její brumlavá slova bez koncovek spřádala konejšivou melodii. Světlo lampy, odrážející se jasně na jeho botách a tlumeně na jejích vlasech žlutých jako podzimní listy, se mihlo po papíru, když obrátila stránku, a útlé svaly se jí zavlnily na pažích.
 
@@ -306,3 +312,5 @@ Jejich zájem mě poněkud dojal a přestali mi připadat ve svém bohatství t
 Na střechách domů podle cesty a před garážemi při silnici, kde nové červené benzínové pumpy seděly v tůních světla, bylo už hluboké léto, a když jsem přijel ke své usedlosti na Západním Vejci, zajel jsem autem pod přístřešek a usadil se na chvíli na dvoře na opuštěném válci na trávu. Vítr se utišil a zanechal po sobě hlučnou, zářivou noc s křídly bijícími ve stromech a s vytrvalým zvukem varhan, jak plné měchy země nadýmaly žáby životem. Silueta plížící se kočky se zavlnila v měsíčním světle, a když jsem pootočil hlavu, abych se na ni podíval, viděl jsem, že nejsem sám – padesát stop ode mne, ze stínu domu mého souseda, se vynořila postava, zůstala stát s rukama v kapsách a zadívala se na stříbrný pepř hvězd. Něco v jeho ledabylých pohybech a v tom, jak stál pevně rozkročen na trávníku, dávalo tušit, že je to sám pan Gatsby, který si vyšel, aby zjistil, jaký podíl z našeho místního nebe patří jemu.
 
 Rozhodl jsem se, že na něj zavolám. Slečna Bakerová se o něm při večeři zmínila a to by k seznámení stačilo. Ale nezavolal jsem, protože náhle dal najevo, že je rád sám – roztáhl podivným způsobem paže tmavé vodě vstříc, a třeba jsem byl od něho daleko, byl bych mohl přísahat, že se třese. Mimoděk jsem pohlédl k moři – a nerozeznal jsem nic než jediné zelené světlo, nepatrné a velmi vzdálené, které mohlo označovat konec loděnice. Když jsem se znovu po­ohlédl po Gatsbym, byl již pryč a já byl v neklidné temnotě opět sám.
+
+</section>
