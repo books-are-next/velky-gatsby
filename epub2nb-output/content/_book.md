@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2461-0
 readingOrder:
   - promo.html
   - velky_getsby_007.html
@@ -25,24 +26,27 @@ readingOrder:
   - velky_getsby_015.html
   - colophon.html
 tocBase:
-  - link: velky_getsby_007.html
-    title: Kapitola I
-  - link: velky_getsby_008.html
-    title: Kapitola II
-  - link: velky_getsby_009.html
-    title: Kapitola III
-  - link: velky_getsby_010.html
-    title: Kapitola IV
-  - link: velky_getsby_011.html
-    title: Kapitola V
-  - link: velky_getsby_012.html
-    title: Kapitola VI
-  - link: velky_getsby_013.html
-    title: Kapitola VII
-  - link: velky_getsby_014.html
-    title: Kapitola VIII
-  - link: velky_getsby_015.html
-    title: Kapitola IX
+  - id: section-1
+    children:
+      - link: velky_getsby_007.html
+        title: Kapitola I
+      - link: velky_getsby_008.html
+        title: Kapitola II
+      - link: velky_getsby_009.html
+        title: Kapitola III
+      - link: velky_getsby_010.html
+        title: Kapitola IV
+      - link: velky_getsby_011.html
+        title: Kapitola V
+      - link: velky_getsby_012.html
+        title: Kapitola VI
+      - link: velky_getsby_013.html
+        title: Kapitola VII
+      - link: velky_getsby_014.html
+        title: Kapitola VIII
+      - link: velky_getsby_015.html
+        title: Kapitola IX
+    isSection: true
 static:
   - style
   - scripts

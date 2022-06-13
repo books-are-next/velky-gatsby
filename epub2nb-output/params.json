@@ -8,7 +8,8 @@
       "modified": "2021-09-12T16:12:23.009Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2461-0"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -31,157 +32,163 @@
     },
     "structure": [
       {
-        "filename": "velky_getsby_001.md",
-        "xhtml": "velky_getsby_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "velky_getsby_002.md",
-        "xhtml": "velky_getsby_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "velky_getsby_003.md",
-        "xhtml": "velky_getsby_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "velky_getsby_004.md",
-        "xhtml": "velky_getsby_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "velky_getsby_005.md",
-        "xhtml": "velky_getsby_005.xhtml",
-        "id": 4,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "velky_getsby_006.md",
-        "xhtml": "velky_getsby_006.xhtml",
-        "id": 5,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "velky_getsby_007.md",
-        "xhtml": "velky_getsby_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola I"
-      },
-      {
-        "filename": "velky_getsby_008.md",
-        "xhtml": "velky_getsby_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola II"
-      },
-      {
-        "filename": "velky_getsby_009.md",
-        "xhtml": "velky_getsby_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola III"
-      },
-      {
-        "filename": "velky_getsby_010.md",
-        "xhtml": "velky_getsby_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola IV"
-      },
-      {
-        "filename": "velky_getsby_011.md",
-        "xhtml": "velky_getsby_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola V"
-      },
-      {
-        "filename": "velky_getsby_012.md",
-        "xhtml": "velky_getsby_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola VI"
-      },
-      {
-        "filename": "velky_getsby_013.md",
-        "xhtml": "velky_getsby_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola VII"
-      },
-      {
-        "filename": "velky_getsby_014.md",
-        "xhtml": "velky_getsby_014.xhtml",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola VIII"
-      },
-      {
-        "filename": "velky_getsby_015.md",
-        "xhtml": "velky_getsby_015.xhtml",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola IX"
-      },
-      {
-        "filename": "velky_getsby_016.md",
-        "xhtml": "velky_getsby_016.xhtml",
-        "id": 15,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "velky_getsby_001.md",
+            "xhtml": "velky_getsby_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "velky_getsby_002.md",
+            "xhtml": "velky_getsby_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "velky_getsby_003.md",
+            "xhtml": "velky_getsby_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "velky_getsby_004.md",
+            "xhtml": "velky_getsby_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "velky_getsby_005.md",
+            "xhtml": "velky_getsby_005.xhtml",
+            "id": 4,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "velky_getsby_006.md",
+            "xhtml": "velky_getsby_006.xhtml",
+            "id": 5,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "velky_getsby_007.md",
+            "xhtml": "velky_getsby_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola I"
+          },
+          {
+            "filename": "velky_getsby_008.md",
+            "xhtml": "velky_getsby_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola II"
+          },
+          {
+            "filename": "velky_getsby_009.md",
+            "xhtml": "velky_getsby_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola III"
+          },
+          {
+            "filename": "velky_getsby_010.md",
+            "xhtml": "velky_getsby_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola IV"
+          },
+          {
+            "filename": "velky_getsby_011.md",
+            "xhtml": "velky_getsby_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola V"
+          },
+          {
+            "filename": "velky_getsby_012.md",
+            "xhtml": "velky_getsby_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola VI"
+          },
+          {
+            "filename": "velky_getsby_013.md",
+            "xhtml": "velky_getsby_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola VII"
+          },
+          {
+            "filename": "velky_getsby_014.md",
+            "xhtml": "velky_getsby_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola VIII"
+          },
+          {
+            "filename": "velky_getsby_015.md",
+            "xhtml": "velky_getsby_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola IX"
+          },
+          {
+            "filename": "velky_getsby_016.md",
+            "xhtml": "velky_getsby_016.xhtml",
+            "id": 15,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          }
+        ]
       }
     ]
   },
@@ -360,6 +367,6 @@
       "user": "books-are-next",
       "repo": "velky-gatsby"
     },
-    "generatedAt": 1654949023659
+    "generatedAt": 1655155814946
   }
 }
