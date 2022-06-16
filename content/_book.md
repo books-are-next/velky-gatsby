@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2461-0
+  contentType: prose
 readingOrder:
   - promo.html
   - velky_getsby_007.html
