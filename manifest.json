@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fitzgerald-velky-gatsby-231400a",
-  "revision": "231400a",
+  "identifier": "fitzgerald-velky-gatsby-e791cea",
+  "revision": "e791cea",
   "readingOrder": [
     "promo.html",
     "velky_getsby_007.html",
@@ -24,8 +24,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:59:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272787256
+    "date": "Thu Jun 16 2022 07:35:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364926067
   },
   "documents": [
     {
