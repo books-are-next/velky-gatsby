@@ -25,7 +25,7 @@ readingOrder:
   - velky_getsby_013.html
   - velky_getsby_014.html
   - velky_getsby_015.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
