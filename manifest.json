@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fitzgerald-velky-gatsby-12a4d4f",
-  "revision": "12a4d4f",
+  "identifier": "fitzgerald-velky-gatsby-eb17e93",
+  "revision": "eb17e93",
   "readingOrder": [
     "promo.html",
     "velky_getsby_007.html",
@@ -21,11 +21,11 @@
     "velky_getsby_013.html",
     "velky_getsby_014.html",
     "velky_getsby_015.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:31:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980297821
+    "date": "Thu Jul 07 2022 08:41:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183294191
   },
   "documents": [
     {
@@ -209,7 +209,7 @@
       "role": "chapter",
       "order": 9,
       "prev": "velky_getsby_014.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -222,11 +222,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 182,
-      "chars": 1165,
+      "chars": 1164,
       "ideas": 25,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "velky_getsby_015.html",
       "next": null,
@@ -244,7 +244,7 @@
   "totals": {
     "all": {
       "words": 43346,
-      "chars": 256352,
+      "chars": 256351,
       "ideas": 1664
     },
     "chapters": {

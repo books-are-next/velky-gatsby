@@ -58,7 +58,7 @@
             "filename": "velky_getsby_003.md",
             "xhtml": "velky_getsby_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -67,7 +67,7 @@
             "filename": "velky_getsby_004.md",
             "xhtml": "velky_getsby_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -76,7 +76,7 @@
             "filename": "velky_getsby_005.md",
             "xhtml": "velky_getsby_005.xhtml",
             "id": 4,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -85,7 +85,7 @@
             "filename": "velky_getsby_006.md",
             "xhtml": "velky_getsby_006.xhtml",
             "id": 5,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -184,7 +184,7 @@
             "filename": "velky_getsby_016.md",
             "xhtml": "velky_getsby_016.xhtml",
             "id": 15,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -368,6 +368,6 @@
       "user": "books-are-next",
       "repo": "velky-gatsby"
     },
-    "generatedAt": 1655979972169
+    "generatedAt": 1657182669998
   }
 }
