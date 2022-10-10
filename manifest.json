@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fitzgerald-velky-gatsby-fd757f2",
-  "revision": "fd757f2",
+  "identifier": "fitzgerald-velky-gatsby-8cdc870",
+  "revision": "8cdc870",
   "readingOrder": [
     "promo.html",
     "velky_getsby_007.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:06:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151567511
+    "date": "Mon Oct 10 2022 15:58:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417502643
   },
   "documents": [
     {
@@ -224,7 +224,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 182,
-      "chars": 1165,
+      "chars": 1166,
       "ideas": 25,
       "role": "about",
       "order": null,
@@ -244,7 +244,7 @@
   "totals": {
     "all": {
       "words": 43346,
-      "chars": 256352,
+      "chars": 256353,
       "ideas": 1664
     },
     "chapters": {
